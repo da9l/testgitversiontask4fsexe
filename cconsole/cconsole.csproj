@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Gitversiontask" Version="5.1.2-enablegitversiontas1.4">
+    <PackageReference Include="Gitversiontask" Version="5.1.2-enablegitversiontas1.8">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
