@@ -10,3 +10,7 @@ nuget source add -Name gvtrepo -Source <absolutePathToNugetFolderAbove>
 ```
 
 Then you can modify the .fsproj and .csproj to include the right version.
+
+## Known problems
+
+As of 2019-11-06 AssemblyInfo generation from fsproj does not work in dotnet core. It does work in VS2019 (with dotnetcore sdk 3.0).
